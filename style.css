@@ -1,0 +1,157 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    background-color: #1f2937;
+}
+
+.site-header {
+    margin: 0 auto;
+    padding: 30px 15px;
+}
+
+.site-header-left {
+    display: inline-block;
+    line-height: 0;
+    margin-right: -120px;
+    padding-left: 200px;;
+}
+
+.site-header-left li img{
+    width: 40%;
+    height: 40%;
+}
+
+.site-header-right {
+    display: inline-block;
+}
+
+.site-header-right li {
+    display: inline;
+    margin-right: 30px;
+    color: #fff;
+}
+
+.site-header-left li a{
+    color: #fff;
+}
+
+li {
+    display: inline;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.quickAbout {
+    width: 300px;
+    margin-right: 400px;
+}
+
+.beautify {
+    width: 300px;
+    margin-right: 400px;
+    border: 1px solid greenyellow;
+}
+
+.quickImage {
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+.textScheme {
+    color: #FFF;
+}
+
+button {
+    background-color: #008080;
+    color: #FFF;
+}
+
+.secondPart {
+    background-color: #fff;
+    text-align: center;
+}
+
+.randomInfo {
+    font-weight: bold;
+    font-size: 36px;
+    color: #1f2937; 
+}
+
+
+.collageList ul li{
+    display: inline-block;
+    color: #000;
+}
+
+.collageList ul li img{
+    display: inline-block;
+    height: 220px;
+    width: 220px;
+    margin: 0 20px 20px 0;
+    border: 1px solid #3882f8;
+    border-radius: 25px;
+}
+
+.collageList ul p {
+    width: 180px;
+    overflow:auto;
+}
+
+.thirdPart {
+    background-color: #E5E7EB;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 30px;
+}
+
+.thirdPart p {
+    margin-left: 280px;
+    text-align: justify;
+    width: 800px;
+    overflow: auto;
+}
+
+.fourth-part-container {
+    padding: 50px 200px;
+}
+
+.fourthPart {
+    margin: 0 auto;
+    width: 100%;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.sign-up-left {
+    display: inline-block;
+    padding-left: 25px;
+}
+
+.sign-up-right {
+    display: inline-block;
+    padding: 5px 15px;
+    border: 1px solid #FFF;
+    padding: 5px 10px;
+    background-color: #3882F6;
+    position: relative;
+    top: -25px;
+    margin-left: 110px;
+    border-radius: 5px;
+}
+
+.fifth-part {
+    margin: 0 auto;
+    background-color:#1f2937;
+    color:#F9FAF8;
+    padding: 15px 40px;
+    text-align: center;
+}
